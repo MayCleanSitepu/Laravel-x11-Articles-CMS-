@@ -2,7 +2,7 @@
 
 <p align="center"> & </p>
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/64450473?s=48&v=4" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://filamentphp.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/64450473?s=48&v=4" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
