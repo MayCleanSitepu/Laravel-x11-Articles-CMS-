@@ -14,3 +14,9 @@
 ## Laravel x11 CMS Using Filament 
 on training phase, if you have any suggestion about this rep, u can contribute...
 
+### Properties
+username : admin
+<br/>
+email    : admin@mail.com
+<br/>
+password : gapakesandi
