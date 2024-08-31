@@ -15,6 +15,20 @@
 on training phase, if you have any suggestion about this rep, u can contribute...
 
 ### Properties
+
+how to access cms:
+
+<ol>
+  <li value="1"> 
+      <code>npm install</code> </li>
+  <li><code>composer update</code> </li>
+  <li><code>php artisan migrate</code> </li>
+  <li><code>npm run dev</code> </li>
+  <li><code>php artisan serve</code> </li>
+</ol>
+
+http://localhost/admin
+
 username : admin
 <br/>
 email    : admin@mail.com
